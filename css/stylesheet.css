@@ -1,0 +1,47 @@
+html {
+    background-color: black;
+}
+
+.head-title {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.head-subtitle {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 25px;
+}
+
+.skeleton {
+    width: 800px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    
+}
+
+.button {
+    margin-left: 48%;
+    margin-right: 50%;
+    margin-top: 75px;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.code {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.git-button {
+    margin-left: 25%;
+    margin-right: 15%;
+    margin-top: 75px;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+}
