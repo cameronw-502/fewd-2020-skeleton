@@ -45,3 +45,29 @@ html {
     font-size: 25px;
     font-family: 'Roboto Mono', monospace;
 }
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+    margin-top: 75px;
+}
+
+.flex-container > div {
+    background-color: black;
+    width: 100%;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center;
+    line-height: 75px;
+    font-size 75px;
+    font-family: 'Roboto Mono', monospace;
+    align-content: center;
+}
+
+.flex-container > div:hover {
+    background-color: red;
+}
